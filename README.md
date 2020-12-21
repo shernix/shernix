@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Eduardo Santiago  👋
 
+[![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)][linkedin]
+
 - 🔭 Computer Engineer and Technology Enthusiast
 - 🌱 Art and Technology Coexistence 
 - ⚡ Engineer / Artist  / Geek
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
