@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shernix's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="shernix's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shernix&show_icons=true&hide_border=true" />
 
 </details>
 
