@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm Eduardo Santiago  👋
+Website Twitter Follow
+
+I'm a Husband, Father, Developer, and Teacher!!
+🔭 Computer Engineer and Technology Enthusiast
+🌱 Art and Technology Coexistence 
+⚡ Engineer / Artist  / Geek
+
+Connect with me:
+LinkedIncodeSTACKr 
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
