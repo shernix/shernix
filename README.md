@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 </details>
 
-[linkedin]: https://linkedin.com/in/eduardo.santiago8
+[linkedin]: https://linkedin.com/in/eduardosantiago8/
