@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Eduardo Santiago  👋
+### Hi there, I'm Eduardo Santiago  :computer:
 
 [![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)][linkedin]
 
