@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Engineer / Artist  / Geek
 
 <br />
+---
 
 ### Languages and Tools:
 
